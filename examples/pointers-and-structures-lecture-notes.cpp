@@ -1,5 +1,5 @@
-/* This is a reverse-literal programming (RLP) document. */
-/* For more information on RLP, check out https://github.com/AeriaVelocity/reverse-literal-programming */
+/* This is a reverse-literate programming (RLP) document. */
+/* For more information on RLP, check out https://github.com/AeriaVelocity/reverse-literate-programming */
 
 // == Metadata == //
 #define TITLE "Pointers and Structures";
@@ -8,6 +8,11 @@
 #define AUTHOR "Arsalan Kazmi <ak22aes@herts.ac.uk>";
 #define CREATED "2024-10-22";
 #define UPDATED "2024-10-22";
+
+const char NOTICE[2][200] = {
+    "These are my actual lecture notes from my university course on C++ pointers and structures.",
+    "Yep, this is the file that started it all.",
+};
 
 // == Imports == //
 #include <iostream>
